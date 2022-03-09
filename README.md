@@ -1,2 +1,3 @@
 # tuberias_paralelo
-TUberias en serie y paralelo estudio 
+Esta hoja de calculo está basada en tuberias en serie
+y un capitulo de tuberias en paralelo
